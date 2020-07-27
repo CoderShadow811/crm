@@ -1,8 +1,7 @@
 <<<<<<< HEAD
-# crm
-Crm
+
 =======
-# oneui-vue-edition
+# Crm
 
 ## Project setup
 ```
